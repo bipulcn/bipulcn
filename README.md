@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Knock me if you want my help
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipulcn&size_weight=0.5&count_weight=0.5&hide=c#,c++,html"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipulcn&size_weight=0.5&count_weight=0.5&langs_count=8&hide=csharp,cplus,html"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bipulcn"/>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
