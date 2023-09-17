@@ -4,25 +4,23 @@
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Knock me if you want my help
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipulcn&size_weight=0.5&count_weight=0.5&langs_count=8&hide=csharp,cplus,html"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bipulcn"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bipulcn" />
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+
+<button><img width="10%" src="https://img.shields.io/badge/-Python-61DAFB?logo=python&logoColor=white&logoWidth=30"></button>
+<button><img width="10%" src="https://img.shields.io/badge/-DJango-61DAFB?logo=django&logoColor=white&logoWidth=30"></button>
+<button><img width="10%" src="https://img.shields.io/badge/-MySQL-61DAFB?logo=mysql&logoColor=white&logoWidth=30"></button>
+<button><img width="10%" src="https://img.shields.io/badge/-MongoDB-61DAFB?logo=mongodb&logoColor=white&logoWidth=30"></button>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
+<button><img width="10%" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&logoWidth=30"></button>
+<button><img width="10%" src="https://img.shields.io/badge/-GitHub-61DAFB?logo=github&logoColor=white&logoWidth=30"></button>
+<button><img width="10%" src="https://img.shields.io/badge/-JavaScript-61DAFB?logo=javascript&logoColor=white&logoWidth=30"></button>
+<button><img width="10%" src="https://img.shields.io/badge/-AngularJS-61DAFB?logo=angularjs&logoColor=white&logoWidth=30"></button><br>
+<button><img width="10%" src="https://img.shields.io/badge/-Pandas-61DAFB?logo=pandas&logoColor=white&logoWidth=30"></button>
+<button><img width="10%" src="https://img.shields.io/badge/-Numpy-61DAFB?logo=numpy&logoColor=white&logoWidth=30"></button>
+<button><img width="10%" src="https://img.shields.io/badge/-SciPy-61DAFB?logo=scipy&logoColor=white&style=flat"></button>
+<button><img width="10%" src="https://img.shields.io/badge/-TensorFlow-61DAFB?logo=tensorflow&logoColor=white&style=flat"></button>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bipulcn&repo=github_profile"/>
-
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=bipulcnt&show_icons=true&theme=radical)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=bipulcn&show_icons=true&theme=radical)
 <!---
 bipulcn/bipulcn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
