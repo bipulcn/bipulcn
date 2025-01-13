@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Knock me if you want my help
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bipulcn"/>
-
-
 <button><img width="10%" src="https://img.shields.io/badge/-Python-61DAFB?logo=python&logoColor=white&logoWidth=30"></button>
 <button><img width="10%" src="https://img.shields.io/badge/-DJango-61DAFB?logo=django&logoColor=white&logoWidth=30"></button>
 <button><img width="10%" src="https://img.shields.io/badge/-MySQL-61DAFB?logo=mysql&logoColor=white&logoWidth=30"></button>
