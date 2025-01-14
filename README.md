@@ -12,7 +12,8 @@
 <button><img width="10%" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&logoWidth=30"></button>
 <button><img width="10%" src="https://img.shields.io/badge/-GitHub-61DAFB?logo=github&logoColor=white&logoWidth=30"></button>
 <button><img width="10%" src="https://img.shields.io/badge/-JavaScript-61DAFB?logo=javascript&logoColor=white&logoWidth=30"></button>
-<button><img width="10%" src="https://img.shields.io/badge/-AngularJS-61DAFB?logo=angularjs&logoColor=white&logoWidth=30"></button><br>
+<button><img width="10%" src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs"></button><br>
+
 <button><img width="10%" src="https://img.shields.io/badge/-Pandas-61DAFB?logo=pandas&logoColor=white&logoWidth=30"></button>
 <button><img width="10%" src="https://img.shields.io/badge/-Numpy-61DAFB?logo=numpy&logoColor=white&logoWidth=30"></button>
 <button><img width="10%" src="https://img.shields.io/badge/-SciPy-61DAFB?logo=scipy&logoColor=white&style=flat"></button>
