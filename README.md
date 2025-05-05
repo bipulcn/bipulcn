@@ -28,7 +28,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,flutter,dart,numpy,unity,tensorflow,nodejs" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,flutter,dart,unity,tensorflow,nodejs" />
   </a>
 </p>
 ###
