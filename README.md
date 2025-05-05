@@ -43,3 +43,9 @@
 </div>
 
 ###
+
+As a versatile full-stack web developer, I bring deep expertise in PHP (Laravel, CodeIgniter, raw PHP), MySQL, SCSS, AngularJS, and jQuery, building robust, scalable, and user-friendly web applications. I am also skilled in Django and Flask for Python-based solutions, as well as the MERN stack for modern JavaScript development. My experience spans both front-end and back-end development, ensuring seamless integration and high performance across the entire technology stack.
+
+Beyond web development, I am a passionate game and mobile app developer, having delivered multiple games for iPhone and Android platforms. I develop apps for smartphones using Flutter and have hands-on experience with Xcode, ActionScript 3 (AS3), and Unity3D with C#, enabling me to create engaging, cross-platform experiences. My diverse background allows me to quickly adapt to new technologies and deliver high-quality results, whether it’s a dynamic website, a powerful backend, or an interactive mobile game.
+
+###
