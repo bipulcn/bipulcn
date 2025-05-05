@@ -23,10 +23,14 @@
 ###
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,python,js,javascript,scss,react,flask,c#,tensorflow,nodejs,flutter,dart" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,js,scss,react,flask,c#,mysql" />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=oracle,mongodb,as3,tensorflow,nodejs,flutter,dart" />
+  </a>
+</p>
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
