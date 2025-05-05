@@ -1,13 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://www.linkedin.com/in/bipul-chandra-dev-nath-2ab66145/" height="25" alt="linkedin logo"  />
-</div>
-
 ###
 
 <div align="center">
@@ -32,9 +22,6 @@
 
 ###
 
-<div align="left">
-  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-</div>
 
 ###
 
