@@ -21,7 +21,11 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,unity3d,mern" />
+  </a>
+</p>
 
 ###
 
