@@ -23,12 +23,12 @@
 ###
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,python,js,scss,react,flask,c#,mysql" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,js,scss,react,flask,c#" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=oracle,mongodb,as3,tensorflow,nodejs,flutter,dart" />
+    <img src="https://skillicons.dev/icons?i=oracle,MySQL,mysql,mongodb,as3,tensorflow,nodejs,flutter,dart" />
   </a>
 </p>
 ###
